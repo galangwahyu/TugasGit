@@ -1,2 +1,2 @@
 # TugasGit
-Tugas Git tentang pull and push
+Tugas Git tentang pull and push rank
